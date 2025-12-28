@@ -1,10 +1,10 @@
 [
     {
-        "name": "Fresh Apples",
-        "mrp": 180,
-        "price": 140,
-        "image": "images/apple.jpg",
-        "description": "Fresh and juicy apples sourced from local farms."
+        "name": "Tea Paper Cups",
+        "mrp": 15,
+        "price": 7,
+        "image": "images/nescafedisposal.webp",
+        "description": ""
     },
     {
         "name": "Maggie",
