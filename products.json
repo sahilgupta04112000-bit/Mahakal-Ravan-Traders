@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Fresh Apples",
+        "mrp": 180,
+        "price": 140,
+        "image": "images/apple.jpg",
+        "description": "Fresh and juicy apples sourced from local farms."
+    },
+    {
+        "name": "Whole Wheat Bread",
+        "mrp": 60,
+        "price": 45,
+        "image": "images/bread.jpg",
+        "description": "Soft and healthy whole wheat bread for daily use."
+    },
+    {
+        "name": "Organic Milk",
+        "mrp": 70,
+        "price": 55,
+        "image": "images/milk.jpg",
+        "description": "Pure organic milk with no preservatives."
+    }
+]
