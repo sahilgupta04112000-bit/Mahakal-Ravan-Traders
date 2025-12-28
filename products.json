@@ -7,6 +7,13 @@
         "description": "Fresh and juicy apples sourced from local farms."
     },
     {
+        "name": "Maggie",
+        "mrp": 15,
+        "price": 13,
+        "image": "images/maggie.jpg",
+        "description": "Old is gold."
+    },
+    {
         "name": "Whole Wheat Bread",
         "mrp": 60,
         "price": 45,
