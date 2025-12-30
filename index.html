@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+v<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -18,9 +18,21 @@
 
         /* Header */
         .header {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
+        position: relative;
+        display: flex;
+        align-items: center;
+        height: 60px;
+        }
+        
+        .header h1 {
+            position: absolute;
+            left: 50%;
+            transform: translateX(-50%);
+            margin: 0;
+        }
+        
+        .cart-btn {
+            margin-left: auto;
         }
 
         .cart-btn {
@@ -187,13 +199,40 @@
     text-align: center;
     font-weight: bold;
 }
+        .overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.4);
+    display: none;
+    z-index: 9;
+}
+
+.cart-panel {
+    z-index: 10;
+}
+
+.cart-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.close-cart {
+    background: none;
+    border: none;
+    font-size: 18px;
+    cursor: pointer;
+}
     </style>
 </head>
 
 <body>
 
 <div class="header">
-    <h1>Local Shopping Site</h1>
+    <h1>Mahakal Ravan Traders</h1>
     <button class="cart-btn" onclick="toggleCart()">Cart (<span id="cartCount">0</span>)</button>
 </div>
 
@@ -201,9 +240,26 @@
 
 <div class="product-container" id="productContainer"></div>
 
-<!-- Cart Panel -->
+<div class="overlay" id="overlay" onclick="toggleCart()"></div>
+    
+    <!-- Cart Panel -->
 <div class="cart-panel" id="cartPanel">
-    <h3>Your Cart</h3>
+    <label style="font-size:14px;">Name (optional)</label>
+    <input
+        type="text"
+        id="customerName"
+        placeholder="Enter your name"
+        style="width:100%; padding:8px; margin:5px 0 10px;"
+    >
+    
+    <div style="font-size:14px; margin-bottom:10px;">
+        <strong>Payment Method:</strong> Cash on Delivery (COD)
+    </div>
+    
+    <div class="cart-header">
+        <h3>Your Cart</h3>
+        <button class="close-cart" onclick="toggleCart()">✕</button>
+    </div>
     <div id="cartItems"></div>
     <h4>Total: ₹<span id="totalAmount">0</span></h4>
     <button class="order-btn" onclick="placeOrder()">Order via WhatsApp</button>
@@ -214,8 +270,14 @@
     let cart = {};
 
     function toggleCart() {
-        document.getElementById('cartPanel').classList.toggle('open');
-    }
+    const cart = document.getElementById('cartPanel');
+    const overlay = document.getElementById('overlay');
+
+    const isOpen = cart.classList.contains('open');
+
+    cart.classList.toggle('open');
+    overlay.style.display = isOpen ? 'none' : 'block';
+}
 
     function renderProducts(products) {
         const container = document.getElementById('productContainer');
@@ -291,7 +353,12 @@
             return;
         }
 
+        const name = document.getElementById('customerName').value.trim();
         let message = "Order Details:%0A";
+        
+        if (name) {
+            message += `Name: ${name}%0A%0A`;
+        }
         let total = 0;
 
         for (let key in cart) {
