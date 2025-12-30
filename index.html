@@ -244,7 +244,13 @@ v<!DOCTYPE html>
     
     <!-- Cart Panel -->
 <div class="cart-panel" id="cartPanel">
-    <label style="font-size:14px;">Name (optional)</label>
+        <div class="cart-header">
+        <h3>Your Cart</h3>
+        <button class="close-cart" onclick="toggleCart()">✕</button>
+    </div>
+    <div id="cartItems"></div>
+    <h4>Total: ₹<span id="totalAmount">0</span></h4>
+    <label style="font-size:14px;"><strong>Name (optional)</strong></label>
     <input
         type="text"
         id="customerName"
@@ -256,12 +262,6 @@ v<!DOCTYPE html>
         <strong>Payment Method:</strong> Cash on Delivery (COD)
     </div>
     
-    <div class="cart-header">
-        <h3>Your Cart</h3>
-        <button class="close-cart" onclick="toggleCart()">✕</button>
-    </div>
-    <div id="cartItems"></div>
-    <h4>Total: ₹<span id="totalAmount">0</span></h4>
     <button class="order-btn" onclick="placeOrder()">Order via WhatsApp</button>
 </div>
 
