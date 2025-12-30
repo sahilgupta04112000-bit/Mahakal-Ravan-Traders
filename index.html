@@ -213,12 +213,18 @@
             total += item.price * item.qty;
             count += item.qty;
 
-            cartItemsDiv.innerHTML += `
+           cartItemsDiv.innerHTML += `
                 <div class="cart-item">
-                    <strong>${item.name}</strong><br>
-                    ₹${item.price} x ${item.qty}
-                    <button class="qty-btn" onclick="changeQty('${key}', -1)">-</button>
-                    <button class="qty-btn" onclick="changeQty('${key}', 1)">+</button>
+                    <div class="cart-item-left">
+                        <div class="cart-item-name">${item.name}</div>
+                        <div class="cart-item-price">₹${item.price} × ${item.qty}</div>
+                    </div>
+            
+                    <div class="cart-item-right">
+                        <button class="qty-btn" onclick="changeQty('${key}', -1)">−</button>
+                        <span class="qty-value">${item.qty}</span>
+                        <button class="qty-btn" onclick="changeQty('${key}', 1)">+</button>
+                    </div>
                 </div>
             `;
         }
@@ -250,7 +256,7 @@
 
         message += `%0ATotal Amount: ₹${total}`;
 
-        const phone = "912345678919";
+        const phone = "918982828031";
         window.open(`https://wa.me/${phone}?text=${message}`, '_blank');
     }
 
