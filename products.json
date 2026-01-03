@@ -14,11 +14,11 @@
         "description": "Old is gold."
     },
     {
-        "name": "Whole Wheat Bread",
-        "mrp": 60,
-        "price": 45,
-        "image": "images/bread.jpg",
-        "description": "Soft and healthy whole wheat bread for daily use."
+        "name": "Disposal Glass",
+        "mrp": 150,
+        "price": 100,
+        "image": "images/disposal-plastic-glass-203.jpg",
+        "description": "200 ml Disposal Glass"
     },
     {
         "name": "Organic Milk",
