@@ -5,8 +5,8 @@
         "price":10,
         "image": "images/nescafedisposal.webp",
         "description": "1 Packet = 10"
-        "description": "2 Packet = 15"
-        "description": "5 Packet = 35"
+                       "2 Packet = 15"
+                       "5 Packet = 35"
     },
     {
         "name": "Maggie",
