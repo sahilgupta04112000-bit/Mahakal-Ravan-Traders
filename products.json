@@ -2,7 +2,7 @@
     {
         "name": "Tea Paper Cups",
         "mrp": 15,
-        "price": 7,
+        "price":10,
         "image": "images/nescafedisposal.webp",
         "description": ""
     },
@@ -21,10 +21,10 @@
         "description": "200 ml Disposal Glass"
     },
     {
-        "name": "Organic Milk",
-        "mrp": 70,
-        "price": 55,
+        "name": "Disposal Glass",
+        "mrp": 20,
+        "price": 10,
         "image": "images/milk.jpg",
-        "description": "Pure organic milk with no preservatives."
+        "description": "100 ml Disposal Glass"
     }
 ]
