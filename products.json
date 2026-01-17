@@ -25,8 +25,7 @@
         "mrp": 20,
         "price": 15,
         "image": "images/100ml-disposable-plastic-glass.jpeg",
-        "description": "1 Packet = 15",
-        "description": "10 Packet = 130, 100 ml Disposal Glass"
+        "description": "1 Packet = 15, 10 Packet = 130, 100 ml Disposal Glass"
     },
     {
         "name": "Sugar",
