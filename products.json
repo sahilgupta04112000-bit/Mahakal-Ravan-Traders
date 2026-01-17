@@ -4,17 +4,14 @@
         "mrp": 15,
         "price":10,
         "image": "images/nescafedisposal.webp",
-        "description": "1 Packet = 10
-                        2 Packet = 15
-                        5 Packet = 35"
+        "description": "1 Packet = 10, 2 Packet = 15, 5 Packet = 35"
     },
     {
         "name": "Maggie",
         "mrp": 15,
         "price": 14,
         "image": "images/maggie.webp",
-        "description": "1 Packet = 14
-                        5 Packet = 65"
+        "description": "1 Packet = 14, 5 Packet = 65"
     },
     {
         "name": "Disposal Glass",
@@ -29,21 +26,20 @@
         "price": 15,
         "image": "images/100ml-disposable-plastic-glass.jpeg",
         "description": "1 Packet = 15"
-        "description": "10 Packet = 130
-                        100 ml Disposal Glass"
-    }
+        "description": "10 Packet = 130, 100 ml Disposal Glass"
+    },
     {
         "name": "Sugar",
         "mrp": 50,
         "price": 45,
         "image": "images/original_1764603486_lead_692db65eed7f7_.webpg",
         "description": ""
-    }
+    },
     {
         "name": "Kalash Oil",
         "mrp": 213,
         "price": 165,
         "image": "images/61RU2R9sO6L._SY741_.jpg",
         "description": ""
-    }
+    },
 ]
