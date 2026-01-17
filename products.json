@@ -4,17 +4,17 @@
         "mrp": 15,
         "price":10,
         "image": "images/nescafedisposal.webp",
-        "description": "1 Packet = 10"
-                       "2 Packet = 15"
-                       "5 Packet = 35"
+        "description": "1 Packet = 10
+                        2 Packet = 15
+                        5 Packet = 35"
     },
     {
         "name": "Maggie",
         "mrp": 15,
         "price": 14,
         "image": "images/maggie.webp",
-        "description": "1 Packet = 14"
-        "description": "5 Packet = 65"
+        "description": "1 Packet = 14
+                        5 Packet = 65"
     },
     {
         "name": "Disposal Glass",
@@ -29,8 +29,8 @@
         "price": 15,
         "image": "images/100ml-disposable-plastic-glass.jpeg",
         "description": "1 Packet = 15"
-        "description": "10 Packet = 130"
-        "description": "100 ml Disposal Glass"
+        "description": "10 Packet = 130
+                        100 ml Disposal Glass"
     }
     {
         "name": "Sugar",
