@@ -4,7 +4,7 @@
         "mrp": 15,
         "price":10,
         "image": "images/nescafedisposal.webp",
-        "description": "1 Packet = 10, 2 Packet = 15, 5 Packet = 35"
+        "description": "1 Packet = 10, 5 Packet = 35"
     },
     {
         "name": "Maggie",
@@ -31,7 +31,7 @@
         "name": "Sugar",
         "mrp": 50,
         "price": 45,
-        "image": "images/original_1764603486_lead_692db65eed7f7_.webpg",
+        "image": "original_1764603486_lead_692db65eed7f7_.webp",
         "description": " "
     },
     {
