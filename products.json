@@ -4,14 +4,14 @@
         "mrp": 15,
         "price":10,
         "image": "images/nescafedisposal.webp",
-        "description": "1 Packet = 10, 5 Packet = 35"
+        "description": "1 Packet = 28 piece , 1 Packet = Rs10, 5 Packet = Rs35"
     },
     {
         "name": "Maggie",
         "mrp": 15,
         "price": 14,
         "image": "images/maggie.webp",
-        "description": "1 Packet = 14, 5 Packet = 65"
+        "description": "1 Packet = Rs15, 5 Packet = Rs65"
     },
     {
         "name": "Disposal Glass",
