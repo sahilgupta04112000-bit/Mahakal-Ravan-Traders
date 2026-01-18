@@ -14,6 +14,20 @@
         "description": "1 Packet = Rs15, 5 Packet = Rs65"
     },
     {
+        "name": "4 Maggie",
+        "mrp": 15,
+        "price": 14,
+        "image": "images/maggimasala560.jpg",
+        "description": "1 Packet = Rs15, 5 Packet = Rs65"
+    },
+    {
+        "name": "6 Maggie",
+        "mrp": 15,
+        "price": 14,
+        "image": "images/61SWuKD3ozL._AC_UF894,1000_QL80_.jpg",
+        "description": "1 Packet = Rs15, 5 Packet = Rs65"
+    },
+    {
         "name": "Disposal Glass",
         "mrp": 150,
         "price": 120,
@@ -40,5 +54,57 @@
         "price": 165,
         "image": "images/61RU2R9sO6L._SY741_.jpg",
         "description": " "
-    }
+    },
+      {
+        "name": "TATA Salt",
+        "mrp": 213,
+        "price": 165,
+        "image": "images/tata-salt-1kg.png",
+        "description": " "
+    },
+    {
+        "name": "Surf Excel",
+        "mrp": 213,
+        "price": 165,
+        "image": "images/DEC150000489xx27DEC24_5_B.jpg",
+        "description": " "
+    },
+    {
+        "name": "Patanjli Dant Kanti",
+        "mrp": 213,
+        "price": 165,
+        "image": "images/1739430660DantKantiNatural200g-2(2).webp",
+        "description": " "
+    },
+        {
+        "name": "Patanjli Honey",
+        "mrp": 213,
+        "price": 165,
+        "image": "images/patanjali-misc-grocery-250-gms-patanjali-honey-250-gms-44304881451296_grande.webp",
+        "description": " "
+    },
+       {
+        "name": "Pond's Powder",
+        "mrp": 213,
+        "price": 165,
+        "image": "images/12139-S1_8901030868993.webp",
+        "description": " "
+    },
+       {
+        "name": "Wild Stone Powder",
+        "mrp": 213,
+        "price": 165,
+        "image": "images/005-100-ml_8d6357a4-97ea-406e-94d9-c44a4e804a40.webp",
+        "description": " "
+    },
+       {
+        "name": "Navratan Cool Powder",
+        "mrp": 213,
+        "price": 165,
+        "image": "images/71JfZHU7HRL.jpg",
+        "description": " "
+    },
 ]
+
+
+
