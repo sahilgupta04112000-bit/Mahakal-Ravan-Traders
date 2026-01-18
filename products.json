@@ -1,109 +1,109 @@
 [
-    {
+     {
         "name": "Tea Paper Cups",
         "mrp": 15,
         "price":10,
         "image": "images/nescafedisposal.webp",
         "description": "1 Packet = 28 piece , 1 Packet = Rs10, 5 Packet = Rs35"
-    }
-    {
+     }
+     {
         "name": "Maggie",
         "mrp": 15,
         "price": 14,
         "image": "images/maggie.webp",
         "description": "1 Packet = Rs15, 5 Packet = Rs65"
-    }
-    {
+     }
+     {
         "name": "4 Maggie",
         "mrp": 15,
         "price": 14,
         "image": "images/maggimasala560.jpg",
         "description": "1 Packet = Rs15, 5 Packet = Rs65"
-    }
-    {
+     }
+     {
         "name": "6 Maggie",
         "mrp": 15,
         "price": 14,
         "image": "images/61SWuKD3ozL._AC_UF894,1000_QL80_.jpg",
         "description": "1 Packet = Rs15, 5 Packet = Rs65"
-    }
-    {
+     }
+     {
         "name": "Disposal Glass",
         "mrp": 150,
         "price": 120,
         "image": "images/disposal-plastic-glass-203.jpg",
         "description": "200 ml Disposal Glass"
-    }
-    {
+     }
+     {
         "name": "Disposal Glass",
         "mrp": 20,
         "price": 15,
         "image": "images/100ml-disposable-plastic-glass.jpeg",
         "description": "1 Packet = 15, 10 Packet = 130, 100 ml Disposal Glass"
-    }
-    {
+     }
+     {
         "name": "Sugar",
         "mrp": 50,
         "price": 45,
         "image": "images/original_1764603486_lead_692db65eed7f7_.webp",
         "description": " "
-    }
-    {
+     }
+     {
         "name": "Kalash Oil",
         "mrp": 213,
         "price": 165,
         "image": "images/61RU2R9sO6L._SY741_.jpg",
         "description": " "
-    }
-    {
+     }
+     {
         "name": "TATA Salt",
         "mrp": 213,
         "price": 165,
         "image": "images/tata-salt-1kg.png",
         "description": " "
-    }
-    {
+     }
+     {
         "name": "Surf Excel",
         "mrp": 213,
         "price": 165,
         "image": "images/DEC150000489xx27DEC24_5_B.jpg",
-        "description": " "
-    }
-    {
+       "description": " "
+     }
+     {
         "name": "Patanjli Dant Kanti",
         "mrp": 213,
         "price": 165,
         "image": "images/1739430660DantKantiNatural200g-2(2).webp",
         "description": " "
-    }
-    {
+     }
+     {
         "name": "Patanjli Honey",
         "mrp": 213,
         "price": 165,
         "image": "images/patanjali-misc-grocery-250-gms-patanjali-honey-250-gms-44304881451296_grande.webp",
         "description": " "
-    }
-    {
+     }
+     {
         "name": "Pond's Powder",
         "mrp": 213,
         "price": 165,
         "image": "images/12139-S1_8901030868993.webp",
         "description": " "
-    }
-    {
+     }
+     {
         "name": "Wild Stone Powder",
         "mrp": 213,
         "price": 165,
         "image": "images/005-100-ml_8d6357a4-97ea-406e-94d9-c44a4e804a40.webp",
         "description": " "
-    }
-    {
+     }
+     {
         "name": "Navratan Cool Powder",
         "mrp": 213,
         "price": 165,
         "image": "images/71JfZHU7HRL.jpg",
         "description": " "
-    }
+     }
 ]
 
 
