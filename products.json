@@ -5,7 +5,7 @@
         "price": 13,
         "image": "images/maggie.webp",
         "description": "1 Packet = Rs 15, 5 Packet = Rs 65",
-         "available":1     
+        "available":1     
      },
      {
         "name": "4 Maggie",
@@ -13,7 +13,7 @@
         "price": 50,
         "image": "images/maggimasala560.jpg",
         "description": "1 Packet = 4 piece",
-          "available":1     
+        "available":1     
      },
      {
         "name": "6 Maggie",
