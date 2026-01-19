@@ -229,6 +229,20 @@
         "price": 35,
         "image": "images/inexpensive-pantry-supplies-disposable-fork-plastic-pack-of-100-baroda-gujarat-india-offikart.jpg",
         "description": " "
+      },
+      {
+        "name": "Thermocol Thali",
+        "mrp": 40,
+        "price": 30,
+        "image": "images/shopping (3).webp",
+        "description": "Small Size"
+      },
+      {
+        "name": "Thermocol Thali",
+        "mrp": 55,
+        "price": 45,
+        "image": "images/shopping (4).webp",
+        "description": "Big Size"
       }
 ]
 
