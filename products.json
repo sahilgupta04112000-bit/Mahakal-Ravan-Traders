@@ -20,7 +20,7 @@
         "mrp": 87,
         "price": 80,
         "image": "images/61SWuKD3ozL._AC_UF894,1000_QL80_.jpg",
-        "description": "1 Packet = 6 piece"
+        "description": "1 Packet = 6 piece",
         "available":1 
      },
      {
@@ -28,7 +28,7 @@
         "mrp": 50,
         "price": 45,
         "image": "images/original_1764603486_lead_692db65eed7f7_.webp",
-        "description": "Mota Daana"
+        "description": "Mota Daana",
         "available":1 
      },
 
@@ -37,7 +37,7 @@
         "mrp": 213,
         "price": 165,
         "image": "images/61RU2R9sO6L._SY741_.jpg",
-        "description": "The price may change depending on maket conditions"
+        "description": "The price may change depending on maket conditions",
         "available":1 
      },
      {
@@ -45,7 +45,7 @@
         "mrp": 30,
         "price": 25,
         "image": "images/tata-salt-1kg.jpg",
-        "description": " "
+        "description": " ",
         "available":1 
      },
      {
@@ -53,7 +53,7 @@
         "mrp": 115,
         "price": 100,
         "image": "images/DEC150000489xx27DEC24_5_B.jpg",
-        "description": "500 gm "
+        "description": "500 gm ",
         "available":1 
      },
      {
@@ -61,7 +61,7 @@
         "mrp": 56,
         "price": 50,
         "image": "images/1739430660DantKantiNatural200g-2(2).jpg",
-        "description": "100 gm"
+        "description": "100 gm",
         "available":1 
      },
      {
@@ -69,7 +69,7 @@
         "mrp": 210,
         "price": 190,
         "image": "images/patanjali-misc-grocery-250-gms-patanjali-honey-250-gms-44304881451296_grande.jpg",
-        "description": "500 gm"
+        "description": "500 gm",
         "available":1 
      },
      {
@@ -77,7 +77,7 @@
         "mrp": 415,
         "price": 300,
         "image": "images/12139-S1_8901030868993.jpg",
-        "description": "400 gm"
+        "description": "400 gm",
         "available":1 
      },
      {
@@ -85,7 +85,7 @@
         "mrp": 205,
         "price": 190,
         "image": "images/005-100-ml_8d6357a4-97ea-406e-94d9-c44a4e804a40.jpg",
-        "description": "300 gm"
+        "description": "300 gm",
         "available":1 
      },
      {
@@ -93,7 +93,7 @@
         "mrp": 110,
         "price": 100,
         "image": "images/71JfZHU7HRL.jpg",
-        "description": "100 gm"
+        "description": "100 gm",
         "available":1 
      },
      {
@@ -101,7 +101,7 @@
         "mrp": 305,
         "price": 180,
         "image": "images/464.jpg",
-        "description": "500 gm"
+        "description": "500 gm",
         "available":1 
      },
      {
@@ -109,7 +109,7 @@
         "mrp": 180,
         "price": 170,
         "image": "images/71eyIBjj5DL.jpg",
-        "description": "250 gm"
+        "description": "250 gm",
         "available":1 
       },
       {
@@ -117,7 +117,7 @@
         "mrp": 186,
         "price": 160,
         "image": "images/51gk+EWovJL._SX679_.jpg",
-        "description": ""
+        "description": "",
         "available":1 
       },
       {
@@ -125,7 +125,7 @@
         "mrp": 90,
         "price": 80,
         "image": "images/iodex-multi-purpose-pain-balm-quick-pantry-3.jpg",
-        "description": ""
+        "description": "",
         "available":1 
       },
       {
@@ -133,7 +133,7 @@
         "mrp": 190,
         "price": 170,
         "image": "images/KissanMixedFruitJam_Bottle.jpg",
-        "description": "500 gm"
+        "description": "500 gm",
         "available":1 
       },
       {
@@ -141,7 +141,7 @@
         "mrp": 84,
         "price": 75,
         "image": "images/615s1CIOdzL._AC_UF1000,1000_QL80_.jpg",
-        "description": ""
+        "description": "",
         "available":1 
       },
       {
@@ -149,7 +149,7 @@
         "mrp": 8,
         "price": 4,
         "image": "images/61ABEoAvrdL._SX679_.jpg",
-        "description": "Small Size, 1 packet = 15 piece, 1 packet = Rs 6, 10 Packet = Rs 40"
+        "description": "Small Size, 1 packet = 15 piece, 1 packet = Rs 6, 10 Packet = Rs 40",
         "available":1 
       },
       {
@@ -157,7 +157,7 @@
         "mrp": 10,
         "price": 5,
         "image": "images/61ABEoAvrdL._SX679_.jpg",
-        "description": "Big Size, 1 Packet = 15 piece, 1 Packet = Rs 8, 10 Packet = Rs 50"
+        "description": "Big Size, 1 Packet = 15 piece, 1 Packet = Rs 8, 10 Packet = Rs 50",
         "available":1 
       },
       {
@@ -165,7 +165,7 @@
         "mrp": 15,
         "price":7,
         "image": "images/nescafedisposal.webp",
-        "description": "1 Packet = 28 piece , 1 Packet = Rs 10, 5 Packet = Rs 35"
+        "description": "1 Packet = 28 piece , 1 Packet = Rs 10, 5 Packet = Rs 35",
         "available":1 
        },
        {
@@ -173,7 +173,7 @@
         "mrp": 150,
         "price": 120,
         "image": "images/disposal-plastic-glass-203.jpg",
-        "description": "200 ml Disposal Glass, 1 Packet = 40 piece, 1 Packet = Rs 130, 2 Packet = Rs 240"
+        "description": "200 ml Disposal Glass, 1 Packet = 40 piece, 1 Packet = Rs 130, 2 Packet = Rs 240",
         "available":1 
       },
       {
@@ -181,7 +181,7 @@
         "mrp": 20,
         "price": 15,
         "image": "images/100ml-disposable-plastic-glass.jpeg",
-        "description": "100 ml Disposal Glass, 1 Packet = 40 piece, 1 Packet = 15, 10 Packet = 130"
+        "description": "100 ml Disposal Glass, 1 Packet = 40 piece, 1 Packet = 15, 10 Packet = 130",
         "available":1 
       },
       {
@@ -189,7 +189,7 @@
         "mrp": 20,
         "price": 15,
         "image": "images/41qGAfG5rML.jpg",
-        "description": "50 Piece"
+        "description": "50 Piece",
         "available":1 
       },
       {
@@ -197,7 +197,7 @@
         "mrp": 30,
         "price": 25,
         "image": "images/shopping (7).webp",
-        "description": "100 Piece"
+        "description": "100 Piece",
         "available":1 
       },
       {
@@ -205,7 +205,7 @@
         "mrp": 25,
         "price": 20,
         "image": "images/shopping (1).webp",
-        "description": "Paper plate use and throw"
+        "description": "Paper plate use and throw",
         "available":1 
       },
       {
@@ -213,7 +213,7 @@
         "mrp": 35,
         "price": 30,
         "image": "images/shopping (2).webp",
-        "description": "Paper plate use and throw"
+        "description": "Paper plate use and throw",
         "available":1 
       },
       {
@@ -221,7 +221,7 @@
         "mrp": 10,
         "price": 7,
         "image": "images/shopping.webp",
-        "description": "8 no. Plate, 1 packet = Rs 10, 10 packet = Rs 70"
+        "description": "8 no. Plate, 1 packet = Rs 10, 10 packet = Rs 70",
         "available":1 
       },
       {
@@ -229,7 +229,7 @@
         "mrp": 20,
         "price": 17,
         "image": "images/shopping.webp",
-        "description": "9 no. Plate, 1 packet = Rs 20, 10 packet = Rs 170"
+        "description": "9 no. Plate, 1 packet = Rs 20, 10 packet = Rs 170",
         "available":1 
       },
       {
@@ -237,7 +237,7 @@
         "mrp": 35,
         "price": 30,
         "image": "images/41SXt2bArTL.jpg",
-        "description": " "
+        "description": " ",
         "available":1 
       },
       {
@@ -245,7 +245,7 @@
         "mrp": 40,
         "price": 35,
         "image": "images/shopping (5).webp",
-        "description": " "
+        "description": " ",
         "available":1 
       },
       {
@@ -253,7 +253,7 @@
         "mrp": 35,
         "price": 30,
         "image": "images/shopping (6).webp",
-        "description": " "
+        "description": " ",
         "available":1 
       },
       {
@@ -261,7 +261,7 @@
         "mrp": 40,
         "price": 35,
         "image": "images/inexpensive-pantry-supplies-disposable-fork-plastic-pack-of-100-baroda-gujarat-india-offikart.jpg",
-        "description": " "
+        "description": " ",
         "available":1 
       },
       {
@@ -269,7 +269,7 @@
         "mrp": 40,
         "price": 30,
         "image": "images/shopping (3).webp",
-        "description": "Small Size"
+        "description": "Small Size",
         "available":1 
       },
       {
@@ -277,7 +277,7 @@
         "mrp": 55,
         "price": 45,
         "image": "images/shopping (4).webp",
-        "description": "Big Size"
+        "description": "Big Size",
         "available":1 
       }
 ]
