@@ -1,12 +1,5 @@
 [
      {
-        "name": "Tea Paper Cups",
-        "mrp": 15,
-        "price":7,
-        "image": "images/nescafedisposal.webp",
-        "description": "1 Packet = 28 piece , 1 Packet = Rs 10, 5 Packet = Rs 35"
-     },
-     {
         "name": "Maggie",
         "mrp": 15,
         "price": 13,
@@ -26,20 +19,6 @@
         "price": 80,
         "image": "images/61SWuKD3ozL._AC_UF894,1000_QL80_.jpg",
         "description": "1 Packet = 6 piece"
-     },
-     {
-        "name": "Disposal Glass",
-        "mrp": 150,
-        "price": 120,
-        "image": "images/disposal-plastic-glass-203.jpg",
-        "description": "200 ml Disposal Glass, 1 Packet = 40 piece, 1 Packet = Rs 130, 2 Packet = Rs 240"
-     },
-     {
-        "name": "Disposal Glass",
-        "mrp": 20,
-        "price": 15,
-        "image": "images/100ml-disposable-plastic-glass.jpeg",
-        "description": "100 ml Disposal Glass, 1 Packet = 40 piece, 1 Packet = 15, 10 Packet = 130"
      },
      {
         "name": "Sugar",
@@ -159,6 +138,27 @@
         "price": 5,
         "image": "images/61ABEoAvrdL._SX679_.jpg",
         "description": "Big Size, 1 Packet = 15 piece, 1 Packet = Rs 8, 10 Packet = Rs 50"
+      },
+      {
+        "name": "Tea Paper Cups",
+        "mrp": 15,
+        "price":7,
+        "image": "images/nescafedisposal.webp",
+        "description": "1 Packet = 28 piece , 1 Packet = Rs 10, 5 Packet = Rs 35"
+       },
+       {
+        "name": "Disposal Glass",
+        "mrp": 150,
+        "price": 120,
+        "image": "images/disposal-plastic-glass-203.jpg",
+        "description": "200 ml Disposal Glass, 1 Packet = 40 piece, 1 Packet = Rs 130, 2 Packet = Rs 240"
+      },
+      {
+        "name": "Disposal Glass",
+        "mrp": 20,
+        "price": 15,
+        "image": "images/100ml-disposable-plastic-glass.jpeg",
+        "description": "100 ml Disposal Glass, 1 Packet = 40 piece, 1 Packet = 15, 10 Packet = 130"
       },
       {
         "name": "Tissue Paper",
