@@ -21,6 +21,7 @@
         "price": 80,
         "image": "images/61SWuKD3ozL._AC_UF894,1000_QL80_.jpg",
         "description": "1 Packet = 6 piece"
+        "available":1 
      },
      {
         "name": "Sugar",
@@ -28,13 +29,16 @@
         "price": 45,
         "image": "images/original_1764603486_lead_692db65eed7f7_.webp",
         "description": "Mota Daana"
+        "available":1 
      },
+
      {
         "name": "Kalash Oil",
         "mrp": 213,
         "price": 165,
         "image": "images/61RU2R9sO6L._SY741_.jpg",
         "description": "The price may change depending on maket conditions"
+        "available":1 
      },
      {
         "name": "TATA Salt",
@@ -42,6 +46,7 @@
         "price": 25,
         "image": "images/tata-salt-1kg.jpg",
         "description": " "
+        "available":1 
      },
      {
         "name": "Surf Excel",
@@ -49,6 +54,7 @@
         "price": 100,
         "image": "images/DEC150000489xx27DEC24_5_B.jpg",
         "description": "500 gm "
+        "available":1 
      },
      {
         "name": "Patanjli Dant Kanti",
@@ -56,6 +62,7 @@
         "price": 50,
         "image": "images/1739430660DantKantiNatural200g-2(2).jpg",
         "description": "100 gm"
+        "available":1 
      },
      {
         "name": "Patanjli Honey",
@@ -63,6 +70,7 @@
         "price": 190,
         "image": "images/patanjali-misc-grocery-250-gms-patanjali-honey-250-gms-44304881451296_grande.jpg",
         "description": "500 gm"
+        "available":1 
      },
      {
         "name": "Pond's Powder",
@@ -70,6 +78,7 @@
         "price": 300,
         "image": "images/12139-S1_8901030868993.jpg",
         "description": "400 gm"
+        "available":1 
      },
      {
         "name": "Wild Stone Powder",
@@ -77,6 +86,7 @@
         "price": 190,
         "image": "images/005-100-ml_8d6357a4-97ea-406e-94d9-c44a4e804a40.jpg",
         "description": "300 gm"
+        "available":1 
      },
      {
         "name": "Navratan Cool Powder",
@@ -84,6 +94,7 @@
         "price": 100,
         "image": "images/71JfZHU7HRL.jpg",
         "description": "100 gm"
+        "available":1 
      },
      {
         "name": "Red Label",
@@ -91,6 +102,7 @@
         "price": 180,
         "image": "images/464.jpg",
         "description": "500 gm"
+        "available":1 
      },
      {
         "name": "Taj Mahal",
@@ -98,6 +110,7 @@
         "price": 170,
         "image": "images/71eyIBjj5DL.jpg",
         "description": "250 gm"
+        "available":1 
       },
       {
         "name": "Vicks",
@@ -105,6 +118,7 @@
         "price": 160,
         "image": "images/51gk+EWovJL._SX679_.jpg",
         "description": ""
+        "available":1 
       },
       {
         "name": "Iodex",
@@ -112,6 +126,7 @@
         "price": 80,
         "image": "images/iodex-multi-purpose-pain-balm-quick-pantry-3.jpg",
         "description": ""
+        "available":1 
       },
       {
         "name": "Kissan",
@@ -119,6 +134,7 @@
         "price": 170,
         "image": "images/KissanMixedFruitJam_Bottle.jpg",
         "description": "500 gm"
+        "available":1 
       },
       {
         "name": "Boro plus",
@@ -126,6 +142,7 @@
         "price": 75,
         "image": "images/615s1CIOdzL._AC_UF1000,1000_QL80_.jpg",
         "description": ""
+        "available":1 
       },
       {
         "name": "Paper Dona",
@@ -133,6 +150,7 @@
         "price": 4,
         "image": "images/61ABEoAvrdL._SX679_.jpg",
         "description": "Small Size, 1 packet = 15 piece, 1 packet = Rs 6, 10 Packet = Rs 40"
+        "available":1 
       },
       {
         "name": "Paper Dona",
@@ -140,6 +158,7 @@
         "price": 5,
         "image": "images/61ABEoAvrdL._SX679_.jpg",
         "description": "Big Size, 1 Packet = 15 piece, 1 Packet = Rs 8, 10 Packet = Rs 50"
+        "available":1 
       },
       {
         "name": "Tea Paper Cups",
@@ -147,6 +166,7 @@
         "price":7,
         "image": "images/nescafedisposal.webp",
         "description": "1 Packet = 28 piece , 1 Packet = Rs 10, 5 Packet = Rs 35"
+        "available":1 
        },
        {
         "name": "Disposal Glass",
@@ -154,6 +174,7 @@
         "price": 120,
         "image": "images/disposal-plastic-glass-203.jpg",
         "description": "200 ml Disposal Glass, 1 Packet = 40 piece, 1 Packet = Rs 130, 2 Packet = Rs 240"
+        "available":1 
       },
       {
         "name": "Disposal Glass",
@@ -161,6 +182,7 @@
         "price": 15,
         "image": "images/100ml-disposable-plastic-glass.jpeg",
         "description": "100 ml Disposal Glass, 1 Packet = 40 piece, 1 Packet = 15, 10 Packet = 130"
+        "available":1 
       },
       {
         "name": "Tissue Paper",
@@ -168,6 +190,7 @@
         "price": 15,
         "image": "images/41qGAfG5rML.jpg",
         "description": "50 Piece"
+        "available":1 
       },
       {
         "name": "Tissue Paper",
@@ -175,6 +198,7 @@
         "price": 25,
         "image": "images/shopping (7).webp",
         "description": "100 Piece"
+        "available":1 
       },
       {
         "name": "Silver Thali",
@@ -182,6 +206,7 @@
         "price": 20,
         "image": "images/shopping (1).webp",
         "description": "Paper plate use and throw"
+        "available":1 
       },
       {
         "name": "Silver Thali ",
@@ -189,6 +214,7 @@
         "price": 30,
         "image": "images/shopping (2).webp",
         "description": "Paper plate use and throw"
+        "available":1 
       },
       {
         "name": "Silver Plate ",
@@ -196,6 +222,7 @@
         "price": 7,
         "image": "images/shopping.webp",
         "description": "8 no. Plate, 1 packet = Rs 10, 10 packet = Rs 70"
+        "available":1 
       },
       {
         "name": "Silver Plate ",
@@ -203,6 +230,7 @@
         "price": 17,
         "image": "images/shopping.webp",
         "description": "9 no. Plate, 1 packet = Rs 20, 10 packet = Rs 170"
+        "available":1 
       },
       {
         "name": "Plastic Spoon ",
@@ -210,6 +238,7 @@
         "price": 30,
         "image": "images/41SXt2bArTL.jpg",
         "description": " "
+        "available":1 
       },
       {
         "name": "Plastic Spoon ",
@@ -217,6 +246,7 @@
         "price": 35,
         "image": "images/shopping (5).webp",
         "description": " "
+        "available":1 
       },
       {
         "name": "Plastic Fock ",
@@ -224,6 +254,7 @@
         "price": 30,
         "image": "images/shopping (6).webp",
         "description": " "
+        "available":1 
       },
       {
         "name": "Plastic Fock ",
@@ -231,6 +262,7 @@
         "price": 35,
         "image": "images/inexpensive-pantry-supplies-disposable-fork-plastic-pack-of-100-baroda-gujarat-india-offikart.jpg",
         "description": " "
+        "available":1 
       },
       {
         "name": "Thermocol Thali",
@@ -238,6 +270,7 @@
         "price": 30,
         "image": "images/shopping (3).webp",
         "description": "Small Size"
+        "available":1 
       },
       {
         "name": "Thermocol Thali",
@@ -245,6 +278,7 @@
         "price": 45,
         "image": "images/shopping (4).webp",
         "description": "Big Size"
+        "available":1 
       }
 ]
 
